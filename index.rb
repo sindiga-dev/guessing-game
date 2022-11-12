@@ -1,8 +1,8 @@
 puts "Enter a colour"
-gets.chomp()
+color=gets.chomp()
 
 puts "Enter a plural noun"
-gets.chomp()
+noun=gets.chomp()
 
 puts "Enter a celebrity"
-gets.chomp
+celeb=gets.chomp()
